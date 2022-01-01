@@ -1,4 +1,4 @@
-# newproject
+# Packet Sniffer
 
 Packet Sniffer
 A simple packet sniffer for monitroing network traffic, built using Python,Scapy and Tkinter for GUI.
