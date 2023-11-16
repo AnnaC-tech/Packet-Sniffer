@@ -3,9 +3,14 @@ from tkinter import ttk
 import scapy.all as scapy
 import threading
 import collections
+import os
 
 
+def test_sources_7(something):
+    
+    os.system(request.remote_addr) 
 
+    return "foo"
 
 def start_button():
     print('Start button clicked')
